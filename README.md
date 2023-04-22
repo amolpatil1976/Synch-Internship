@@ -1,2 +1,2 @@
-# Synch-Internship Task-1
-implemented simple chatboat application using Machine Learning 
+# Synch-Internship 
+implemented 4 tasks using Machine Learning 
